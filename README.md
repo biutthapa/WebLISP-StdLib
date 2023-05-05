@@ -2,7 +2,7 @@
 
 This repository contains the WebLISP standard library, which includes a set of built-in functions, data structures, and modules that provide a range of functionality for WebLISP programs.
 
-The standard library is designed to provide everything required to build high-performance 2D or 3D games and high-performance applications like Photoshop or Autodesk Maya on top of WebAssembly.
+The standard library is designed to provide everything required to build games and high-performance applications (like Adobe Photoshop and Autodesk Maya) to run on web-browsers.
 
 ## Modules
 The library is organized into modules, each of which provides a specific set of functionality. The modules include:

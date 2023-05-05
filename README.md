@@ -1,6 +1,6 @@
 # WebLISP Standard Library
 
-The WebLISP standard library repository will contain set of modules and libraries that provide everything required to build games and high-performance applications (like Adobe Photoshop and Autodesk Maya) to run on web-browsers.
+The WebLISP standard library repository will contain modules and libraries that provide everything required to build games and high-performance applications (like Adobe Photoshop and Autodesk Maya) that run smoothly on web-browsers.
 
 ## Modules
 The library is organized into modules, each of which provides a specific set of functionality. The modules include:
